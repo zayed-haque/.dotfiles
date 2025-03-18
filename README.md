@@ -5,3 +5,5 @@ personal dot and config files
 To set up these dotfiles on your system, run:
 ```bash
 ./install.sh
+
+Mac setup is also thers
