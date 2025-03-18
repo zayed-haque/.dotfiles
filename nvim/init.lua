@@ -50,6 +50,7 @@ require('lazy').setup({
   -- require 'plugins.chatgpt',
   require 'plugins.aerial',
   require 'plugins.vim-tmux-navigator',
+  require 'plugins.copilot',
 }, {
   ui = {
     -- If you have a Nerd Font, set icons to an empty table which will use the
